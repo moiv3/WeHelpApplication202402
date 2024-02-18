@@ -1,4 +1,4 @@
-This is Brian's Application for the WeHelp bootcap program in TW.  
+This is Brian's Application for the WeHelp bootcamp program in TW.  
 I'm still learning the basics of website programming (2024 style:)).  
 I do have some experience in programming and scripting for work-related stuff...  
 But developing something entirely new is a brand new thing for me.  
